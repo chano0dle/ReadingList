@@ -14,3 +14,10 @@ A list of books I have been reading
 * **We Should All Be Feminists** by Chimamanda Ngozi Adichie
 
 ## April
+* **The Sympathizer** by Viet Thanh Nguyen
+* **The Alchemist** by Paulo Coelho
+* **Siddhartha** by Hermann Hesse
+* **Man's Search for Meaning** by Viktor Frankl
+* **The Metamorphosis** by Franz Kafka
+
+## May
