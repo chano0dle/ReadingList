@@ -22,3 +22,6 @@ A list of books I have been reading
 
 ## May
 * **How Not to Be Wrong: The Power of Mathematical Thinking** by Jordan Ellenberg
+
+## June
+* **The Vegetarian** by Han Kang
