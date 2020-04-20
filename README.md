@@ -30,3 +30,8 @@ A list of books I have been reading
 
 ## March
 * **Sapiens: A Brief History of Humankind** by Yuval Noah Harari
+
+# 2020
+
+## April
+* **Evicted: Poverty and Profit in the American City** by Matthew Desmond
