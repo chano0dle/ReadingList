@@ -35,3 +35,4 @@ A list of books I have been reading
 
 ## April
 * **Evicted: Poverty and Profit in the American City** by Matthew Desmond
+* **Born a Crime: Stories from a South African Childhood** by Trevor Noah
