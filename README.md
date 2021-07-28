@@ -40,4 +40,4 @@ A list of books I have been reading
 # 2021
 
 ## May
-* **Story of Your Life** by Ted Chiang
+* **Stories of Your Life and Others** by Ted Chiang
