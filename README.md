@@ -41,3 +41,6 @@ A list of books I have been reading
 
 ## May
 * **Stories of Your Life and Others** by Ted Chiang
+
+## September
+* **How to American: An Immigrant's Guide to Disappointing Your Parents** by Jimmy O. Yang
