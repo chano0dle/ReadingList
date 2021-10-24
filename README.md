@@ -44,3 +44,6 @@ A list of books I have been reading
 
 ## September
 * **How to American: An Immigrant's Guide to Disappointing Your Parents** by Jimmy O. Yang
+
+## October
+* **On Tyranny: Twenty Lessons from the Twentieth Century** by Timothy Snyder
