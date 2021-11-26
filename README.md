@@ -47,3 +47,6 @@ A list of books I have been reading
 
 ## October
 * **On Tyranny: Twenty Lessons from the Twentieth Century** by Timothy Snyder
+
+## November
+* **Hot Lights, Cold Steel: Life, Death and Sleepless Nights in a Surgeon's First Years** by Michael J. Collins, M.D.
