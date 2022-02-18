@@ -50,3 +50,8 @@ A list of books I have been reading
 
 ## November
 * **Hot Lights, Cold Steel: Life, Death and Sleepless Nights in a Surgeon's First Years** by Michael J. Collins, M.D.
+
+# 2022
+
+## February
+* **A Life on Our Planet: My Witness Statement and a Vision for the Future** by David Attenborough
