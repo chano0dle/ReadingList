@@ -55,3 +55,7 @@ A list of books I have been reading
 
 ## February
 * **A Life on Our Planet: My Witness Statement and a Vision for the Future** by David Attenborough
+
+## May
+* **What Doctors Feel: How Emotions Affect the Practice of Medicine** by Danielle Ofri, M.D.
+* **The Real Doctor Will See You Shortly: A Physician's First Year** by Matt McCarthy, M.D.
