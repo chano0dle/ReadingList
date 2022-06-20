@@ -59,3 +59,6 @@ A list of books I have been reading
 ## May
 * **What Doctors Feel: How Emotions Affect the Practice of Medicine** by Danielle Ofri, M.D.
 * **The Real Doctor Will See You Shortly: A Physician's First Year** by Matt McCarthy, M.D.
+
+## June
+* **Crying in H Mart: A Memoir** by Michelle Zauner
