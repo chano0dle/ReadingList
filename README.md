@@ -63,3 +63,4 @@ A list of books I have been reading
 ## June
 * **Crying in H Mart: A Memoir** by Michelle Zauner
 * **Glimmer of Hope: How Tragedy Sparked a Movement** by The March of Our Lives Founders
+* **Interior Chinatown** by Charles Yu
