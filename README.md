@@ -65,3 +65,6 @@ A list of books I have been reading
 * **Glimmer of Hope: How Tragedy Sparked a Movement** by The March of Our Lives Founders
 * **Interior Chinatown** by Charles Yu
 * **Talking to Strangers: What We Should Know About the People We Don't Know** by Malcolm Gladwell
+
+## July
+* **Minor Feelings: An Asian American Reckoning** by Cathy Park Hong
