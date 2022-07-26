@@ -68,3 +68,4 @@ A list of books I have been reading
 
 ## July
 * **Minor Feelings: An Asian American Reckoning** by Cathy Park Hong
+* **Numbers Don't Lie: 71 Stories to Help Us Understand the Modern World** by Vaclav Smil
