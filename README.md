@@ -72,3 +72,6 @@ A list of books I have been reading
 
 ## August
 * **Yearbook** by Seth Rogen
+
+## September
+* **The Choice: Embrace the Possible** by Dr. Edith Eger
