@@ -75,3 +75,6 @@ A list of books I have been reading
 
 ## September
 * **The Choice: Embrace the Possible** by Dr. Edith Eger
+
+## October
+* **Happy People Are Annoying** by Josh Peck
