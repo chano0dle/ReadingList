@@ -78,3 +78,6 @@ A list of books I have been reading
 
 ## October
 * **Happy People Are Annoying** by Josh Peck
+
+## November
+* **Breath from Salt: A Deadly Genetic Disease, a New Era in Science, and the Patients and Families Who Changed Medicine Forever** by Bijal P. Trivedi
