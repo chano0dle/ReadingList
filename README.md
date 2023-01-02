@@ -81,3 +81,6 @@ A list of books I have been reading
 
 ## November
 * **Breath from Salt: A Deadly Genetic Disease, a New Era in Science, and the Patients and Families Who Changed Medicine Forever** by Bijal P. Trivedi
+
+## December
+* **Outliers: The Story of Success** by Malcolm Gladwell
