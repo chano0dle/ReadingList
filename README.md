@@ -84,3 +84,8 @@ A list of books I have been reading
 
 ## December
 * **Outliers: The Story of Success** by Malcolm Gladwell
+
+# 2024
+
+## April
+* **A History of the World in 6 Glasses** by Tom Standage
